@@ -1,3 +1,4 @@
-root: .
+root: ./TODO
 structure:
-  readme: README.md
+  first: first.md
+  second: second.md
